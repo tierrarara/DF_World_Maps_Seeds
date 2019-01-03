@@ -1,0 +1,176 @@
+Tadinxah
+The Enchanted Dimensions
+
+Rodent men
+Bat men
+Cave swallow men
+Amphibian men
+Antmen
+Serpent men
+Cave fish men
+Bat men
+Olm men
+Amphibian men
+Cave fish men
+Serpent men
+Reptile men
+Rodent men
+Cave fish men
+Antmen
+Reptile men
+Serpent men
+Rodent men
+Cave swallow men
+Bat men
+Rodent men
+Antmen
+Cave swallow men
+Olm men
+Bat men
+Rodent men
+Bat men
+Reptile men
+Olm men
+Amphibian men
+Cave fish men
+Serpent men
+Serpent men
+Reptile men
+Cave fish men
+Amphibian men
+Olm men
+Rodent men
+Antmen
+Serpent men
+Rodent men
+Amphibian men
+Olm men
+Cave fish men
+Bat men
+Reptile men
+Cave swallow men
+Amphibian men
+Serpent men
+Reptile men
+Olm men
+Cave fish men
+Amphibian men
+Cave swallow men
+Serpent men
+Rodent men
+Antmen
+Bat men
+Bat men
+Cave fish men
+Reptile men
+Antmen
+Olm men
+Rodent men
+Cave swallow men
+Serpent men
+Amphibian men
+Serpent men
+The Rag of Rewards, Dwarves
+ Worship List
+  Doren, deity: fortresses, war, mountains
+  Thukkan the Fair Guilds, deity: jewels, wealth, trade
+  Datan the Dung of Pus, deity: earth, volcanos, deformity
+  TecÖk the Ale of Trims, deity: festivals, speech
+  NÜzom, deity: dusk
+  Dugal Fairstatic, deity: balance
+  Rimtar, deity: mercy
+  Bem Stylelearning, deity: beauty, art, inspiration, truth
+  Erar, deity: order, discipline
+  Zekrim, deity: disease
+  The Dragon of Mightiness, deity: rulership
+ king List
+  [*] Zuglar Tradedeep (b.??? d. 1, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Doren (89%)
+  [*] Ral Towerconstructs (b.??? d. 24, Reign Began: 2), *** New Line, Never Married
+      No Children
+      Worshipped Datan the Dung of Pus (34%)
+  [*] Kivish Ragteeth (b.??? d. 102, Reign Began: 25), *** New Line, Never Married
+      No Children
+      Worshipped Thukkan the Fair Guilds (77%)
+  [*] Ustuth Headtours (b.7, Reign Began: 102), *** New Line, Never Married
+      No Children
+      Worships Rimtar (80%)
+Kludujubus, Kobolds
+The Small Immorality, Goblins
+ master List
+  [*] Ar°le Rulerreigns the Lush Flag (b.???, Reign Began: -1), *** Original Line, Never Married
+      No Children
+The Poetic Confederations, Humans
+ Worship List
+  Batow, deity: trade
+  Thur Justicekeys the White Brightness of Sparkles, deity: lightning, thunder
+  Smoma the Thimbles of Hearth, deity: family
+  Thefin, deity: the rain
+  Dasmir, deity: balance
+  Engo the Gnarled Mites, deity: muck
+ law-giver List
+  [*] Someg Boundcharms (b.??? d. 36, Reign Began: 3), *** Original Line, Married (d. 69)
+      9 Children (out-lived 6 of them) -- Ages at death: 34 (d. 11) 32 (d. 6) (d. 11) (d. 22) (d. 27) 10 (d. 33)
+      Worshipped Batow (22%)
+  [*] †m Vipershowers (b.4 d. 64, Reign Began: 36), Inherited from mother, Married (d. 101)
+      10 Children (out-lived 7 of them) -- Ages at death: (d. 33) (d. 33) (d. 32) 31 (d. 39) 24 21 (d. 50) (d. 50) (d. 61)
+      Worshipped Dasmir (30%)
+  [*] Mizbo Balancescrapes (b.33 d. 90, Reign Began: 65), Inherited from mother, Married (d. 103)
+      3 Children -- Ages at death: 40 30 24
+      Worshipped Batow (52%)
+  [*] Mimap Spokenmeadows (b.50, Reign Began: 91), Inherited from father, Never Married
+      No Children
+      Worships Smoma the Thimbles of Hearth (60%)
+The Droplets of Shaking, Elves
+ Worship List
+  Thithu Fernpacks the Oceanic Hill, force: nature, rivers
+ druid List
+  [*] Thilçri Gladegrooved (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Thithu Fernpacks the Oceanic Hill (6%)
+ princess List
+  [*] Ameli Divedchain (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Thithu Fernpacks the Oceanic Hill (22%)
+ queen List
+  [*] Quico Veiledshells (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Thithu Fernpacks the Oceanic Hill (37%)
+The Hill of Turquoise, Elves
+ Worship List
+  Thithu Fernpacks the Oceanic Hill, force: nature, rivers
+ druid List
+  [*] Conibo Glosspuzzle (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Thithu Fernpacks the Oceanic Hill (67%)
+ princess List
+  [*] òemeni Glimmerfenced (b.???, Reign Began: 1), *** Original Line, Married
+      21 Children -- Ages: 111 110 106 103 101 99 98 95 90 89 84 81 70 61 60 58 45 38 35 11 10
+      Worships Thithu Fernpacks the Oceanic Hill (23%)
+ queen List
+  [*] Aleòa Raysgroves (b.???, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worships Thithu Fernpacks the Oceanic Hill (8%)
+The Helmed Misty Sabres, Dwarves
+ Worship List
+  Datan Oilmine the Cobalt Cave, deity: metals
+  Lorsãth, deity: mountains, caverns, fortresses, war
+  Dakas Taxedbronze, deity: wealth, jewels
+  Logem, deity: minerals, rainbows, the sky
+  Babin, deity: revelry, dance
+  Étast, deity: truth
+  Guthstak, deity: muck, the rain, storms, lightning
+  Nokgol, deity: the stars, fire
+  Rasuk Spurtvomit, deity: disease, torture, misery
+  Nar Coastaldeaths, deity: death, boundaries
+ king List
+  [*] Zan Tombgulfs (b.??? d. 20, Reign Began: 1), *** Original Line, Never Married
+      No Children
+      Worshipped Nar Coastaldeaths (39%)
+  [*] Onget Rampartblots (b.??? d. 95, Reign Began: 21), *** New Line, Never Married
+      No Children
+      Worshipped Logem (16%)
+  [*] Zasit Crescentclasps (b.20, Reign Began: 95), *** New Line, Never Married
+      No Children
+      Worships Guthstak (73%)

@@ -1,0 +1,2247 @@
+Civilized World Population
+
+	3408 Dwarves
+	226 Humans
+	17503 Elves
+	5664 Goblins
+	102 Kobolds
+
+	Total: 26903
+
+Sites
+
+1: Th†bomsos, "Prideumbras", cave
+	1 hydra
+	5 helmet snakes
+	307 cave swallows
+	483 bats
+2: Loz Obxo, "The Scar of Bodices", cave
+	1 dragon
+	5 naked mole dogs
+	429 cave spiders
+	351 bats
+3: Strosoesnust, "The Jaundiced Hollows", cave
+	1 cyclops
+	5 naked mole dogs
+	353 cave swallows
+	465 bats
+4: Uwsherushan, "The Lamented Cavern", cave
+	Owner: Jrofrimbis, kobolds
+	Parent Civ: Kludujubus, kobolds
+	102 kobolds
+5: Medenavuz, "Tribemined", cave
+	1 ettin
+	5 giant rats
+	296 cave swallows
+	285 cave spiders
+6: Gamilasmel, "Trustedmerchant", fortress
+	Owner: The Basement of Shrines, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	74 dwarves
+	18 humans
+	131 goblins
+	24 dogs
+	14 horses
+	22 chickens
+	2 turkeys
+	3 human visitors
+	6 goblin visitors
+	2 elf outcasts
+	4 human outcasts
+7: Snangstasoz, "Thiefnut", dark fortress
+	Owner: The Nightmares of Hushing, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Gozru Starsteals, goblin
+	54 dwarves
+	16 elves
+	4 humans
+	4299 goblins
+	1 lizard fiend
+	1048 trolls
+	1048 beak dogs
+	22 goblin outcasts
+	7 elf outcasts
+	4 dwarf prisoners
+8: Dipuggigol, "Clinchriddles", hamlet
+	Owner: The Council of Radiances, humans
+	Parent Civ: The Poetic Confederations, humans
+	lord: Ayilo Bravegilds, gorlak
+	151 humans
+	1 gorlak
+	24 dogs
+	4 cats
+	2 mules
+	4 cows
+	4 sheep
+	10 pigs
+	2 yaks
+	10 llamas
+	20 alpacas
+	10 turkeys
+	8 rabbits
+9: Amethazepave, "Windytundra", forest retreat
+	Owner: The Lauded Glens, elves
+	Parent Civ: The Droplets of Shaking, elves
+	1790 elves
+	1 human
+	2 mules
+	375 leopards
+	375 tigers
+	70 pileated gibbons
+	54 elf visitors
+	2 dwarf outcasts
+	106 elf outcasts
+10: Miverepev¢, "Calledbulb", forest retreat
+	Owner: The Mythical Dusk, elves
+	Parent Civ: The Hill of Turquoise, elves
+	95 elves
+	10 horses
+	22 tigers
+	10 gorillas
+11: Dorenìm, "Diamondcrushes", fortress
+	Owner: The Finder-Girders of Sinew, dwarves
+	Parent Civ: The Helmed Misty Sabres, dwarves
+	98 dwarves
+	2 gorlaks
+	12 dogs
+	14 cats
+	2 mules
+	2 donkeys
+	10 horses
+	4 cows
+	2 sheep
+	8 pigs
+	2 goats
+	2 chickens
+	2 cavies
+	2 ducks
+	2 water buffalos
+	2 reindeer
+	2 geese
+	2 yaks
+	2 llamas
+	6 alpacas
+	8 guineafowls
+	2 blue peafowls
+	2 turkeys
+	2 rabbits
+	13 dwarf visitors
+	4 elf visitors
+	14 elf outcasts
+	11 dwarf outcasts
+12: Thocitduthnur, "Spikesguard", vault
+	Owner: The Convenient Counsellor, 
+	25 Doren's Angels
+	50 Assistants of Doren
+	1 Protected Beast
+13: Stekuggozru, "Leaphells", dark pits
+14: Reläpiimepe, "Twistedwaxed", forest retreat
+	Owner: The Righteous Sweetnesses, elves
+	Parent Civ: The Hill of Turquoise, elves
+	96 elves
+	26 leopards
+	2 mules
+	8 black-crested gibbons
+	26 bobcats
+	2 water buffalos
+	8 bonobos
+	9 sloth bears
+15: Sabaenira, "Earthenhearts", forest retreat
+	Owner: The Messianic Apes, elves
+	Parent Civ: The Droplets of Shaking, elves
+	31 elves
+	23 bobcats
+	10 gorillas
+	10 horses
+16: Detherpan, "Dressworked", hamlet
+	Owner: The Whiskered Deceiver, goblins
+	Parent Civ: The Small Immorality, goblins
+	administrator: Nguslu Authorhates, human
+	11 dwarves
+	13 goblins
+	4 humans
+	2 water buffalos
+	6 guineafowls
+	50 horses
+	7 geese
+	2 reindeer
+	2 donkeys
+	5 blue peafowls
+	2 cavies
+	7 chickens
+	2 goats
+	6 ducks
+17: Fecicilanebe, "Glitterlures", forest retreat
+	Owner: The Wave of Genius, elves
+	Parent Civ: The Droplets of Shaking, elves
+	113 elves
+	26 leopards
+	2 donkeys
+	26 tigers
+	10 black-crested gibbons
+	2 water buffalos
+	9 grey parrots
+	10 bonobos
+18: Logemumer, "Paintblush", hillocks
+	Owner: The Sunny Dike, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	112 dwarves
+	14 cats
+	16 dogs
+	10 pigs
+	2 mules
+	350 horses
+	4 ducks
+	6 turkeys
+19: Aspngoolngî, "Startmonstrous", dark pits
+	Owner: The Nightmare of Vines, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Dostngosp Fencehex, goblin
+	49 goblins
+	27 trolls
+	27 beak dogs
+20: Masamisede, "Cactusmind", forest retreat
+	Owner: The Buck of Styling, elves
+	Parent Civ: The Hill of Turquoise, elves
+	18 elves
+	25 tigers
+	10 horses
+	25 leopards
+	6 grey parrots
+21: Ngebzolesmnast, "Dreadflashed", dark pits
+	Owner: The Labyrinthine Sin, goblins
+	Parent Civ: The Small Immorality, goblins
+	lady: ñn Heldbursts, gorlak
+	1 gorlak
+	15 goblins
+	22 trolls
+	22 beak dogs
+22: Ireneilila, "Delldrums", forest retreat
+	Owner: The Wordy Butterfly, elves
+	Parent Civ: The Hill of Turquoise, elves
+	59 elves
+	26 tigers
+	10 horses
+	10 gorillas
+	26 bobcats
+23: Thithuthazi, "Snarledsandaled", forest retreat
+	Owner: The Hale Mist, elves
+	Parent Civ: The Droplets of Shaking, elves
+	35 elves
+	23 tigers
+	23 bobcats
+	10 horses
+	10 gorillas
+	23 leopards
+24: Gethmonom, "Pastpaper", hillocks
+	Owner: The Bright Theater, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	98 dwarves
+	24 dogs
+	10 ducks
+	26 yaks
+	24 rabbits
+25: G¢smernish, "Umbraltrade", hillocks
+	Owner: The Crypt of Sun, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	99 dwarves
+	2 dogs
+	23 cats
+	350 horses
+	10 ducks
+26: Alino£pe, "Dawnedbarbs", forest retreat
+	Owner: The Turquoise Crow, elves
+	Parent Civ: The Hill of Turquoise, elves
+	48 elves
+	24 bobcats
+	24 tigers
+	10 horses
+	10 gorillas
+27: Ofaova, "Foldedsong", forest retreat
+	Owner: The Veiled Blossom, elves
+	Parent Civ: The Hill of Turquoise, elves
+	32 elves
+	22 tigers
+	10 horses
+	10 pangolins
+	22 leopards
+28: Cattentarem, "Channeledfate", hillocks
+	Owner: The Humid Ships, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	107 dwarves
+	26 dogs
+	350 horses
+	10 guineafowls
+29: äòerofa, "Temptedbeach", forest retreat
+	Owner: The Jump of Rooting, elves
+	Parent Civ: The Droplets of Shaking, elves
+	142 elves
+	22 leopards
+	22 bobcats
+	10 horses
+	10 gorillas
+	9 elf outcasts
+30: Äuthäsenama, "Allyhawk", forest retreat
+	Owner: The Fells of Playing, elves
+	Parent Civ: The Hill of Turquoise, elves
+	24 elves
+	25 leopards
+	25 bobcats
+	10 horses
+	10 gorillas
+31: L°ceyicifano, "Petalanguish", forest retreat
+	Owner: The Subtle Clouds, elves
+	Parent Civ: The Droplets of Shaking, elves
+	98 elves
+	2 dwarves
+	10 horses
+	24 tigers
+	24 leopards
+	10 gorillas
+	8 elf outcasts
+32: Solonardes, "Flagauthor", fortress
+	1 forgotten beast
+33: Dipanebuna, "Skunkfissure", forest retreat
+	Owner: The Sweetness of Wandering, elves
+	Parent Civ: The Hill of Turquoise, elves
+	97 elves
+	23 tigers
+	10 horses
+	23 leopards
+	10 gorillas
+	6 black-crested gibbons
+34: Stungurar, "Lessonmalign", dark pits
+	Owner: The Scoured Barbarity, goblins
+	Parent Civ: The Small Immorality, goblins
+	lady: Dang Malignedcudgels, goblin
+	49 goblins
+	24 trolls
+	24 beak dogs
+35: Thithuethithi, "Snarlingsaffron", forest retreat
+	Owner: The Heather of Martyrs, elves
+	Parent Civ: The Droplets of Shaking, elves
+	95 elves
+	26 bobcats
+	26 tigers
+	10 gorillas
+	10 horses
+	26 leopards
+	6 grey parrots
+36: Athifinithara, "Poetfuture", forest retreat
+	Owner: The Gully of Bulwarks, elves
+	Parent Civ: The Hill of Turquoise, elves
+	184 elves
+	26 bobcats
+	10 gorillas
+	10 horses
+	26 leopards
+	26 tigers
+	10 grey parrots
+37: Lïrardes, "Toolauthors", hillocks
+	Owner: The Paint of Principle, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	101 dwarves
+	1 goblin
+	13 cats
+	350 horses
+	14 dogs
+	10 ducks
+	10 geese
+38: Ewimimale, "Caughtriver", forest retreat
+	Owner: The Oily Songs, elves
+	Parent Civ: The Droplets of Shaking, elves
+	98 elves
+	26 bobcats
+	10 horses
+	26 tigers
+	10 gorillas
+39: Imbobaze, "Tonedran", tomb
+40: Rifafaniweni, "Gladespark", forest retreat
+	Owner: The Hide of Judges, elves
+	Parent Civ: The Hill of Turquoise, elves
+	87 elves
+	25 bobcats
+	25 tigers
+	10 horses
+	10 gorillas
+	25 leopards
+41: Futacemina, "Buckforest", forest retreat
+	Owner: The Saffron of Respect, elves
+	Parent Civ: The Droplets of Shaking, elves
+	94 elves
+	23 bobcats
+	10 horses
+	10 gorillas
+	23 tigers
+	23 leopards
+42: Kulalsazir, "Wonderedbridge", fortress
+	Owner: The Angelic Lenses, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	118 dwarves
+	115 goblins
+	17 dogs
+	14 horses
+	2 guineafowls
+	2 turkeys
+	14 cats
+	27 blue peafowls
+	2 elf visitors
+	1 goblin visitor
+	4 elf outcasts
+43: Tayothit°, "Castleleap", forest retreat
+	Owner: The Velvet of Vessels, elves
+	Parent Civ: The Droplets of Shaking, elves
+	43 elves
+	24 tigers
+	24 leopards
+	10 horses
+	10 gorillas
+	24 bobcats
+44: Aquiyathilçri, "Fatedshore", forest retreat
+	Owner: The Blossom of Glistening, elves
+	Parent Civ: The Hill of Turquoise, elves
+	95 elves
+	25 bobcats
+	10 horses
+	25 tigers
+	10 gorillas
+45: Coquanivimeba, "Primreign", forest retreat
+	Owner: The Root of Alchemy, elves
+	Parent Civ: The Hill of Turquoise, elves
+	15 elves
+	10 horses
+	10 gorillas
+	25 bobcats
+	2 sloth bears
+	25 tigers
+46: ärnamtekkud, "Modestpicks", hillocks
+	Owner: The Clean Seals, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	113 dwarves
+	14 dogs
+	350 horses
+	10 blue peafowls
+	16 cats
+	10 geese
+47: Enemeriramo, "Weakenedsuitor", forest retreat
+	Owner: The Rocks of Excavation, elves
+	Parent Civ: The Hill of Turquoise, elves
+	5087 elves
+	1177 leopards
+	10 horses
+	1177 tigers
+	230 gorillas
+	1177 bobcats
+	230 grey parrots
+	123 elf visitors
+	232 elf outcasts
+48: Lebeyuarani, "Boardusts", forest retreat
+	Owner: The Tired Fang, elves
+	Parent Civ: The Droplets of Shaking, elves
+	82 elves
+	26 tigers
+	10 horses
+	26 bobcats
+	10 gorillas
+	26 leopards
+49: Äuthäemofe, "Allyadore", forest retreat
+	Owner: The Pears of Roughness, elves
+	Parent Civ: The Hill of Turquoise, elves
+	98 elves
+	22 tigers
+	10 horses
+	22 leopards
+	10 gorillas
+	22 bobcats
+	5 pangolins
+50: Mideb°alu, "Visewaters", forest retreat
+	Owner: The Romantic Cacti, elves
+	Parent Civ: The Hill of Turquoise, elves
+	61 elves
+	23 leopards
+	10 horses
+	23 tigers
+	10 gorillas
+	23 bobcats
+51: Enatefewetha, "Bulbousvine", forest retreat
+	Owner: The Autumnal Skies, elves
+	Parent Civ: The Hill of Turquoise, elves
+	125 elves
+	25 leopards
+	25 tigers
+	25 bobcats
+	10 horses
+	10 gorillas
+52: Inefaawiri, "Fellbrides", forest retreat
+	Owner: The Ashen Hoof, elves
+	Parent Civ: The Droplets of Shaking, elves
+	64 elves
+	24 tigers
+	24 leopards
+	10 horses
+	10 gorillas
+53: Idrommîrul, "Shortpaged", hillocks
+	Owner: The Basement of Adventure, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	103 dwarves
+	13 dogs
+	350 horses
+	10 blue peafowls
+	14 cats
+	10 ducks
+54: Mideb°tipi, "Viseskin", forest retreat
+	Owner: The Fragrance of Kindling, elves
+	Parent Civ: The Droplets of Shaking, elves
+	94 elves
+	1 dwarf
+	1 human
+	26 bobcats
+	10 horses
+	10 gorillas
+	26 tigers
+	5 grey parrots
+	6 elf outcasts
+55: Bomrekbetan, "Whippedcalmed", fortress
+	Owner: The Banner of Burials, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	79 goblins
+	142 dwarves
+	16 cats
+	23 horses
+	17 ducks
+	21 dogs
+	6 guineafowls
+	14 geese
+	2 water buffalos
+	2 llamas
+	2 donkeys
+	4 goblin visitors
+	3 elf visitors
+56: Sethelali, "Packsmiles", forest retreat
+	Owner: The Forest of Whirling, elves
+	Parent Civ: The Hill of Turquoise, elves
+	51 elves
+	22 leopards
+	10 horses
+	10 gorillas
+	22 tigers
+	22 bobcats
+57: Calathiimere, "Plungerain", forest retreat
+	Owner: The Sensual Bulb, elves
+	Parent Civ: The Droplets of Shaking, elves
+	97 elves
+	1 human
+	1 goblin
+	23 bobcats
+	23 tigers
+	10 horses
+	10 gorillas
+	23 leopards
+	6 grey parrots
+	5 elf outcasts
+58: Imepequithe, "Waxflaxen", forest retreat
+	Owner: The Gleeful Jump, elves
+	Parent Civ: The Droplets of Shaking, elves
+	107 elves
+	26 bobcats
+	26 leopards
+	10 horses
+	8 sloth bears
+	26 tigers
+	10 gorillas
+	8 elf outcasts
+59: Mebzuthelbel, "Oarrenowned", hillocks
+	Owner: The Scorching Rag, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	3 elves
+	4 goblins
+	105 dwarves
+	1 human
+	16 cats
+	350 horses
+	8 guineafowls
+	2 ducks
+	13 dogs
+	2 blue peafowls
+	4 chickens
+	10 geese
+	2 dwarf outcasts
+	5 elf outcasts
+60: Disafis£, "Valleyarch", forest retreat
+	Owner: The Violent Pelts, elves
+	Parent Civ: The Hill of Turquoise, elves
+	88 elves
+	23 tigers
+	10 horses
+	23 bobcats
+	23 leopards
+	10 gorillas
+	4 bonobos
+61: Emudiirene, "Bootdell", forest retreat
+	Owner: The Blowing Musics, elves
+	Parent Civ: The Droplets of Shaking, elves
+	95 elves
+	10 horses
+	23 leopards
+	10 gorillas
+	23 bobcats
+62: Omofed°, "Roarflicker", forest retreat
+	Owner: The Humid Meadow, elves
+	Parent Civ: The Hill of Turquoise, elves
+	90 elves
+	10 horses
+	26 tigers
+	10 gorillas
+	26 bobcats
+	5 bonobos
+	26 elf outcasts
+63: Amiòathitha, "Sunsspun", forest retreat
+	Owner: The Distant Autumn, elves
+	Parent Civ: The Hill of Turquoise, elves
+	99 elves
+	1 gorlak
+	26 tigers
+	26 leopards
+	10 horses
+	10 gorillas
+	26 bobcats
+64: Alisaqu°leli, "Budlathered", forest retreat
+	Owner: The Truthful Festival, elves
+	Parent Civ: The Droplets of Shaking, elves
+	106 elves
+	22 tigers
+	10 horses
+	9 black-crested gibbons
+	22 bobcats
+	10 gorillas
+65: Qu°lelideca, "Latheredcrowds", forest retreat
+	Owner: The Crowded Flax, elves
+	Parent Civ: The Droplets of Shaking, elves
+	118 elves
+	1 gorlak
+	26 bobcats
+	10 horses
+	10 gorillas
+	26 leopards
+66: Thukkanfeb, "Amberarrow", hillocks
+	Owner: The Outrageous Trumpets, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	51 dwarves
+	350 horses
+	10 guineafowls
+	14 cats
+67: çleinala, "Beastportent", forest retreat
+	Owner: The Jaws of Trampling, elves
+	Parent Civ: The Hill of Turquoise, elves
+	51 elves
+	22 tigers
+	10 horses
+	10 gorillas
+	22 bobcats
+	22 leopards
+68: Bisekducim, "Veiledwork", hillocks
+	Owner: The Branded Roughness of Fins, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	107 dwarves
+	17 dogs
+	350 horses
+	11 cats
+	10 guineafowls
+	10 ducks
+69: Famimereli, "Clearingrein", forest retreat
+	Owner: The Lyrics of Handling, elves
+	Parent Civ: The Hill of Turquoise, elves
+	95 elves
+	25 tigers
+	10 horses
+	10 gorillas
+	25 leopards
+70: Alrostosbñb, "Ochrehate", dark pits
+71: Veracirethi, "Clamsavages", forest retreat
+	Owner: The Saffron of Roughness, elves
+	Parent Civ: The Droplets of Shaking, elves
+	111 elves
+	22 bobcats
+	10 horses
+	10 gorillas
+	22 tigers
+	22 leopards
+72: Ethithisema, "Saffrongifts", forest retreat
+	Owner: The Friendly Root, elves
+	Parent Civ: The Droplets of Shaking, elves
+	83 elves
+	23 bobcats
+	23 tigers
+	23 leopards
+	10 horses
+	10 gorillas
+73: Ovanaca, "Sungstakes", forest retreat
+	Owner: The Creature of Bastions, elves
+	Parent Civ: The Hill of Turquoise, elves
+	79 elves
+	24 tigers
+	10 horses
+	24 bobcats
+	24 leopards
+	2 sloths
+	10 gorillas
+	2 grey parrots
+74: ElÇdeimici, "Motherbite", forest retreat
+	Owner: The Snarls of Clinching, elves
+	Parent Civ: The Droplets of Shaking, elves
+	98 elves
+	23 tigers
+	10 horses
+	10 gorillas
+	23 leopards
+	6 sloths
+75: Ethefathemiyi, "Wadedheather", forest retreat
+	Owner: The Bearded Tail, elves
+	Parent Civ: The Droplets of Shaking, elves
+	110 elves
+	24 bobcats
+	10 horses
+	10 gorillas
+	24 leopards
+	24 tigers
+76: Osnunolnge, "Ghoulnail", dark fortress
+	Owner: The Hell of Speech, goblins
+	Parent Civ: The Small Immorality, goblins
+	lady: Ago Skinwraiths, human
+	531 goblins
+	1 dwarf
+	3 elves
+	2 humans
+	124 trolls
+	124 beak dogs
+	1 goblin visitor
+	3 elf outcasts
+	21 goblin outcasts
+	2 dwarf outcasts
+	1 human outcast
+77: Isankonos, "Stilledbrass", hillocks
+	Owner: The Thin Glaze, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	104 dwarves
+	13 cats
+	350 horses
+	5 ducks
+	15 dogs
+	10 blue peafowls
+	5 geese
+78: Araneçmimi, "Lacetresses", forest retreat
+	Owner: The Tress of Style, elves
+	Parent Civ: The Droplets of Shaking, elves
+	108 elves
+	24 leopards
+	8 bonobos
+	24 tigers
+	10 horses
+	10 gorillas
+	24 bobcats
+79: Ulaova, "Growlsing", forest retreat
+	Owner: The Beans of Land, elves
+	Parent Civ: The Hill of Turquoise, elves
+	91 elves
+	27 tigers
+	10 horses
+	10 gorillas
+	27 leopards
+80: Yararenayidi, "Silkaqua", forest retreat
+	Owner: The Stormy Long Forest, elves
+	Parent Civ: The Droplets of Shaking, elves
+	110 elves
+	22 tigers
+	22 leopards
+	10 horses
+	10 gorillas
+	2 bushmasters
+	22 bobcats
+	4 grey parrots
+	6 pileated gibbons
+81: Thit°iquila, "Leapedumbras", forest retreat
+	Owner: The Glade of Lashing, elves
+	Parent Civ: The Droplets of Shaking, elves
+	99 elves
+	23 bobcats
+	23 leopards
+	10 horses
+	10 gorillas
+	23 tigers
+82: Eslomeeco, "Beardedentries", forest retreat
+	Owner: The Oaks of Gloss, elves
+	Parent Civ: The Hill of Turquoise, elves
+	103 elves
+	25 tigers
+	10 horses
+	10 gorillas
+	8 black-crested gibbons
+	25 leopards
+	25 bobcats
+83: Ranoyawo, "Wealthytails", forest retreat
+	Owner: The Flower of Exiting, elves
+	Parent Civ: The Droplets of Shaking, elves
+	103 elves
+	27 bobcats
+	10 horses
+	10 gorillas
+	27 leopards
+	27 tigers
+84: âlotmomuz, "Buckcrypts", hillocks
+	Owner: The Cave of Grasp, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	100 dwarves
+	12 humans
+	2 goblins
+	26 dogs
+	350 horses
+	10 ducks
+	2 rabbits
+	10 blue peafowls
+85: Astkeskal, "Sabreshoot", hillocks
+	Owner: The Violent Papers, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	99 dwarves
+	12 dogs
+	350 horses
+	10 guineafowls
+	2 cows
+	2 yaks
+	6 turkeys
+	14 cats
+	2 rabbits
+86: Meòiraneci, "Lilacleads", forest retreat
+	Owner: The Rainy Satins, elves
+	Parent Civ: The Hill of Turquoise, elves
+	53 elves
+	22 leopards
+	22 bobcats
+	10 horses
+	10 gorillas
+87: Atherini, "Rocksthin", forest retreat
+	Owner: The Adventurous Talon, elves
+	Parent Civ: The Droplets of Shaking, elves
+	97 elves
+	26 bobcats
+	26 leopards
+	10 horses
+	10 gorillas
+88: Ngosongosto, "Vicevoids", dark pits
+	Owner: The Slim Dungeon, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Bosa Roastedthieves, goblin
+	4 humans
+	51 goblins
+	25 beak dogs
+	25 trolls
+89: Elananedu, "Prairiecrafts", forest retreat
+	Owner: The Field of Utterances, elves
+	Parent Civ: The Hill of Turquoise, elves
+	101 elves
+	25 bobcats
+	25 tigers
+	10 horses
+	10 gorillas
+	2 dingoes
+	25 leopards
+	8 grey parrots
+	2 bushmasters
+90: Lolamaase, "Blossomspot", forest retreat
+	Owner: The Island of Anvils, elves
+	Parent Civ: The Hill of Turquoise, elves
+	77 elves
+	23 tigers
+	10 horses
+	23 leopards
+	10 gorillas
+91: Miveremame, "Callgrowth", forest retreat
+	Owner: The Saffron Skunk, elves
+	Parent Civ: The Droplets of Shaking, elves
+	48 elves
+	23 tigers
+	10 horses
+	10 gorillas
+	23 bobcats
+92: Tiraare, "Sweetseeds", forest retreat
+	Owner: The Glittery Bridle-Sun, elves
+	Parent Civ: The Droplets of Shaking, elves
+	96 elves
+	26 tigers
+	10 horses
+	10 gorillas
+	26 bobcats
+	26 leopards
+	15 elf outcasts
+93: Sazirkizest, "Bridgezeal", hillocks
+	Owner: The Parched Standards, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	103 dwarves
+	4 humans
+	1 goblin
+	25 cats
+	350 horses
+	10 guineafowls
+	8 blue peafowls
+94: Pelinalali, "Specialsmiled", forest retreat
+	Owner: The Music of Tone, elves
+	Parent Civ: The Droplets of Shaking, elves
+	63 elves
+	23 leopards
+	10 horses
+	23 bobcats
+	10 gorillas
+	23 tigers
+95: Likotritan, "Inkbegins", hillocks
+	Owner: The Most Arch, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	121 dwarves
+	15 dogs
+	2 yaks
+	350 horses
+	10 turkeys
+	16 cats
+	10 blue peafowls
+96: Iwopev¢, "Mawbulbs", forest retreat
+	Owner: The Obeisant Sweetness, elves
+	Parent Civ: The Droplets of Shaking, elves
+	70 elves
+	23 tigers
+	23 bobcats
+	23 leopards
+	10 horses
+	2 yaks
+	10 gorillas
+97: Cacameamo, "Peltshove", forest retreat
+	Owner: The Poem of Adoration, elves
+	Parent Civ: The Droplets of Shaking, elves
+	105 elves
+	23 tigers
+	10 horses
+	10 gorillas
+	23 bobcats
+	23 leopards
+	8 grey parrots
+98: Ditarifayoba, "Crabdives", forest retreat
+	Owner: The Clearing of Waxing, elves
+	Parent Civ: The Hill of Turquoise, elves
+	67 elves
+	25 leopards
+	10 horses
+	10 gorillas
+	25 tigers
+	25 bobcats
+99: Coniboequa, "Coastallabors", forest retreat
+	Owner: The Rhythmic Spring, elves
+	Parent Civ: The Hill of Turquoise, elves
+	84 elves
+	26 tigers
+	10 horses
+	10 gorillas
+	26 leopards
+	26 bobcats
+100: ThestaralÜth, "Crimsonbolted", hillocks
+	Owner: The Confining Orbs, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	93 dwarves
+	2 plump helmet men
+	350 horses
+	10 geese
+	4 turkeys
+	23 cats
+	2 ducks
+101: Arstrukulxe, "Demonauthored", dark pits
+	Owner: The Mangy Plagues, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Utes Demoncrabs, goblin
+	44 goblins
+	24 trolls
+	24 beak dogs
+102: Abanobok, "Constructpillar", fortress
+	Owner: The Mines of Squashing, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	248 dwarves
+	2 goblins
+	36 dogs
+	25 horses
+	10 chickens
+	27 cats
+	10 turkeys
+	10 guineafowls
+	2 rabbits
+	10 ducks
+	3 elf outcasts
+103: Afetharama, "Fangdreams", forest retreat
+	Owner: The Amusing Suitor, elves
+	Parent Civ: The Hill of Turquoise, elves
+	39 elves
+	26 tigers
+	10 horses
+	10 gorillas
+	26 bobcats
+	26 leopards
+104: Akulkutsmob, "Labormenaced", dark pits
+	Owner: The Demon of Charming, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Snodub Vileleopards, goblin
+	57 goblins
+	22 trolls
+	22 beak dogs
+105: Celeamu, "Brightnesscreature", forest retreat
+	Owner: The Messianic Ivy, elves
+	Parent Civ: The Droplets of Shaking, elves
+	102 elves
+	25 bobcats
+	10 horses
+	25 leopards
+	10 gorillas
+106: Sinarudimati, "Griffongrotto", forest retreat
+	Owner: The Vermilion Pine, elves
+	Parent Civ: The Droplets of Shaking, elves
+	103 elves
+	24 bobcats
+	10 horses
+	10 gorillas
+	24 leopards
+	2 dingoes
+107: Nitheeletha, "Whiskeredthunder", forest retreat
+	Owner: The Moral Saturninity, elves
+	Parent Civ: The Hill of Turquoise, elves
+	54 elves
+	25 bobcats
+	10 horses
+	25 leopards
+	10 gorillas
+	25 tigers
+108: Fayobaçba, "Diveopened", forest retreat
+	Owner: The Rain of Colors, elves
+	Parent Civ: The Hill of Turquoise, elves
+	86 elves
+	25 bobcats
+	10 horses
+	25 tigers
+	10 gorillas
+	25 leopards
+109: L°ceyilitho, "Petalseizure", forest retreat
+	Owner: The Born Songs, elves
+	Parent Civ: The Hill of Turquoise, elves
+	67 elves
+	1 gorlak
+	22 tigers
+	10 horses
+	10 gorillas
+	22 bobcats
+	22 leopards
+110: òemiáuthä, "Bornally", forest retreat
+	Owner: The Bright Wonder, elves
+	Parent Civ: The Droplets of Shaking, elves
+	109 elves
+	1 dwarf
+	27 leopards
+	27 tigers
+	10 horses
+	10 gorillas
+	27 bobcats
+	4 elf outcasts
+111: Slakgaurar, "Flamemaligned", dark pits
+	Owner: The Cremated Plague, goblins
+	Parent Civ: The Small Immorality, goblins
+	lady: Nguslu Trussjackals, goblin
+	47 goblins
+	2 dwarves
+	1 human
+	24 trolls
+	24 beak dogs
+112: Bamefaòonali, "Wetlake", forest retreat
+	Owner: The Contingent Plays, elves
+	Parent Civ: The Droplets of Shaking, elves
+	102 elves
+	26 leopards
+	10 horses
+	3 black-crested gibbons
+	10 gorillas
+	26 bobcats
+	4 bonobos
+	26 tigers
+113: Ricçamayi, "Begunpearl", forest retreat
+	Owner: The Raven of Society, elves
+	Parent Civ: The Hill of Turquoise, elves
+	96 elves
+	27 leopards
+	27 bobcats
+	10 horses
+	10 gorillas
+	7 bonobos
+114: Ay°ticethire, "Whisperraptors", forest retreat
+	Owner: The Boar of Apexes, elves
+	Parent Civ: The Droplets of Shaking, elves
+	100 elves
+	26 leopards
+	10 horses
+	10 gorillas
+	26 bobcats
+	26 tigers
+115: Sethe°cena, "Packknew", forest retreat
+	Owner: The Gloss of Mountains, elves
+	Parent Civ: The Hill of Turquoise, elves
+	99 elves
+	26 bobcats
+	10 horses
+	10 gorillas
+	4 black-crested gibbons
+	26 leopards
+	2 cougars
+	3 grey parrots
+116: Arecoci, "Seedshort", forest retreat
+	Owner: The Silkiness of Contesting, elves
+	Parent Civ: The Droplets of Shaking, elves
+	103 elves
+	24 bobcats
+	24 tigers
+	10 horses
+	10 gorillas
+	7 pileated gibbons
+117: Kelmasos, "Metaltalked", fortress
+	Owner: The Furnaces of Birth, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	232 dwarves
+	1 plump helmet man
+	2 humans
+	44 cats
+	25 horses
+	10 blue peafowls
+	10 guineafowls
+	16 dogs
+	10 geese
+118: Themaepeve, "Clearsparkle", forest retreat
+	Owner: The Mountain of Conjuring, elves
+	Parent Civ: The Droplets of Shaking, elves
+	110 elves
+	25 tigers
+	10 horses
+	10 gorillas
+	25 bobcats
+	25 leopards
+119: Atheluzar, "Ringgrottoes", mountain halls
+	Owner: The Decisive Torches, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	121 dwarves
+	4 humans
+	1 goblin
+120: Rayalielale, "Tempestsaints", forest retreat
+	Owner: The Seas of Subtlety, elves
+	Parent Civ: The Droplets of Shaking, elves
+	105 elves
+	27 tigers
+	10 horses
+	3 black-crested gibbons
+	27 bobcats
+	27 leopards
+	2 bonobos
+	3 pileated gibbons
+	2 cougars
+	10 gorillas
+121: ätilefebi, "Dalesevere", forest retreat
+	Owner: The Foggy Crow, elves
+	Parent Civ: The Hill of Turquoise, elves
+	88 elves
+	26 bobcats
+	10 horses
+	3 bonobos
+	26 tigers
+	10 gorillas
+	26 leopards
+122: ïnulegul, "Mirrorcontrols", tower
+	Owner: The Ramparts of Discovery, dwarves
+	12 dwarves
+	1 human
+	44 animated goblins
+	4 animated humans
+	61 animated dwarves
+123: Urdimamkol, "Towercounsels", mountain halls
+	Owner: The Pink Silvers, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	89 dwarves
+124: Fol°l°ceyi, "Tanglepetal", forest retreat
+	Owner: The Untamed Lutes of Renown, elves
+	Parent Civ: The Droplets of Shaking, elves
+	107 elves
+	26 tigers
+	26 leopards
+	10 horses
+	10 gorillas
+	26 bobcats
+125: Likotçtdón, "Inkcharm", mountain halls
+	Owner: The Considerate Halls, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	98 dwarves
+	3 humans
+126: Lirivamifava, "Treatyblazed", forest retreat
+	Owner: The Hills of Oblivion, elves
+	Parent Civ: The Droplets of Shaking, elves
+	95 elves
+	24 tigers
+	10 horses
+	10 gorillas
+	24 bobcats
+	24 leopards
+127: Ceòecalene, "Chanceseas", forest retreat
+	Owner: The Storm of Gods, elves
+	Parent Civ: The Hill of Turquoise, elves
+	99 elves
+	23 leopards
+	10 horses
+	7 bonobos
+	23 bobcats
+	10 gorillas
+	23 tigers
+128: Muzishdeler, "Martyrsteels", mountain halls
+	Owner: The Scaly Door, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	92 dwarves
+	1 human
+129: IzÇnämile, "Shankflute", forest retreat
+	Owner: The Incense of Balance, elves
+	Parent Civ: The Droplets of Shaking, elves
+	98 elves
+	24 bobcats
+	24 tigers
+	10 horses
+	10 gorillas
+	24 leopards
+130: Fanem°oda, "Maroonfog", forest retreat
+	Owner: The Just Bear, elves
+	Parent Civ: The Hill of Turquoise, elves
+	67 elves
+	27 leopards
+	10 horses
+	27 tigers
+	27 bobcats
+	10 gorillas
+	2 bonobos
+131: Cilivafice, "Worshippeddrinks", forest retreat
+	Owner: The Aquamarine of Hardiness, elves
+	Parent Civ: The Hill of Turquoise, elves
+	100 elves
+	24 bobcats
+	24 leopards
+	10 horses
+	10 gorillas
+	24 tigers
+	4 sloth bears
+	3 grey parrots
+132: Dumatazin, "Roughnesswatched", mountain halls
+	Owner: The Paddle of Elevating, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	117 dwarves
+133: Emofemaci, "Adoreteachers", forest retreat
+	Owner: The Amazing Clearing, elves
+	Parent Civ: The Droplets of Shaking, elves
+	96 elves
+	24 bobcats
+	10 horses
+	10 gorillas
+	24 tigers
+	24 leopards
+134: Icicaapasi, "Twinklingnut", forest retreat
+	Owner: The Larks of Parching, elves
+	Parent Civ: The Droplets of Shaking, elves
+	73 elves
+	27 leopards
+	10 horses
+	10 gorillas
+	27 bobcats
+	27 tigers
+135: Fikodarak, "Glazeshaft", mountain halls
+	Owner: The Castle of Constructs, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	114 dwarves
+	1 plump helmet man
+136: Imazaelaye, "Snakecarried", forest retreat
+	Owner: The Banded Berries, elves
+	Parent Civ: The Droplets of Shaking, elves
+	113 elves
+	24 bobcats
+	10 horses
+	10 bonobos
+	10 gorillas
+	24 leopards
+137: Nisathithu, "Jawsnarls", forest retreat
+	Owner: The Maw of Hills, elves
+	Parent Civ: The Hill of Turquoise, elves
+	95 elves
+	27 tigers
+	10 horses
+	10 gorillas
+	27 bobcats
+138: Omoofa, "Roarfolded", forest retreat
+	Owner: The Ivy of Imprisonment, elves
+	Parent Civ: The Hill of Turquoise, elves
+	76 elves
+	27 tigers
+	10 horses
+	10 gorillas
+	2 pileated gibbons
+	27 leopards
+	2 pangolins
+139: Vemanelo, "Mosspasses", forest retreat
+	Owner: The Glen of Spells, elves
+	Parent Civ: The Droplets of Shaking, elves
+	95 elves
+	22 leopards
+	22 bobcats
+	10 horses
+	10 gorillas
+	22 tigers
+140: KñbukeshtÉn, "Lancesmiths", mountain halls
+	Owner: The Snarling Orb, dwarves
+	Parent Civ: The Rag of Rewards, dwarves
+	123 dwarves
+	1 human
+141: Arolaci, "Footdessert", forest retreat
+	Owner: The Polished Prairies, elves
+	Parent Civ: The Hill of Turquoise, elves
+	82 elves
+	27 bobcats
+	2 sloth bears
+	27 leopards
+	10 horses
+	10 gorillas
+	27 tigers
+	2 grey parrots
+142: Narenaefami, "Furjumped", forest retreat
+	Owner: The Twilight of Shields, elves
+	Parent Civ: The Droplets of Shaking, elves
+	101 elves
+	25 tigers
+	10 horses
+	2 pangolins
+	25 bobcats
+	10 gorillas
+	4 grey parrots
+	25 leopards
+143: Faleada, "Luteberries", forest retreat
+	Owner: The Trampled Laces, elves
+	Parent Civ: The Hill of Turquoise, elves
+	71 elves
+	22 tigers
+	22 leopards
+	10 horses
+	10 gorillas
+	2 yaks
+	2 grey parrots
+	22 bobcats
+144: Catamave, "Talontouched", forest retreat
+	Owner: The Fragrance of Masters, elves
+	Parent Civ: The Droplets of Shaking, elves
+	99 elves
+	23 leopards
+	10 horses
+	10 gorillas
+	23 tigers
+	23 bobcats
+145: Saneraar¢, "Musicalacts", forest retreat
+	Owner: The Crowded Vegetation, elves
+	Parent Civ: The Droplets of Shaking, elves
+	103 elves
+	23 bobcats
+	10 horses
+	10 gorillas
+	23 tigers
+	23 leopards
+	8 grey parrots
+146: änirifafa, "Wrungglade", forest retreat
+	Owner: The Pass of Braids, elves
+	Parent Civ: The Hill of Turquoise, elves
+	96 elves
+	22 tigers
+	2 donkeys
+	10 gorillas
+	22 leopards
+	10 horses
+	22 bobcats
+	2 grey parrots
+	2 sloths
+	2 bonobos
+147: Yupel°ceyi, "Pulledpetal", forest retreat
+	Owner: The Pear of Rooms, elves
+	Parent Civ: The Droplets of Shaking, elves
+	501 elves
+	124 bobcats
+	10 horses
+	20 gorillas
+	124 leopards
+	20 pileated gibbons
+	124 tigers
+	20 sloth bears
+	33 elf visitors
+	34 elf outcasts
+148: Alalayupe, "Grovepulled", forest retreat
+	Owner: The Sensual Spring, elves
+	Parent Civ: The Droplets of Shaking, elves
+	94 elves
+	24 leopards
+	10 horses
+	2 sloths
+	24 tigers
+	10 gorillas
+	24 bobcats
+	2 pileated gibbons
+	2 grey parrots
+149: Quicoicitha, "Cyclonedipped", forest retreat
+	Owner: The Named Dessert, elves
+	Parent Civ: The Hill of Turquoise, elves
+	95 elves
+	27 tigers
+	10 horses
+	2 black-crested gibbons
+	10 gorillas
+	27 leopards
+	27 bobcats
+	3 bonobos
+150: Aglourar, "Wretchmaligned", dark pits
+	Owner: The Midnight of Women, goblins
+	Parent Civ: The Small Immorality, goblins
+	lord: Estrur Seducetells, goblin
+	1 dwarf
+	53 goblins
+	27 beak dogs
+	27 trolls
+151: Ateraaf°, "Cloudscraped", forest retreat
+	Owner: The Sensitive Season, elves
+	Parent Civ: The Droplets of Shaking, elves
+	98 elves
+	10 horses
+	8 black-crested gibbons
+	9 gorillas
+	48 bobcats
+	8 grey parrots
+	27 elf visitors
+	9 elf outcasts
+152: Meòimave, "Lilactouch", forest retreat
+	Owner: The Famous Thunders, elves
+	Parent Civ: The Droplets of Shaking, elves
+	90 elves
+	26 bobcats
+	26 leopards
+	10 horses
+	10 gorillas
+153: Lesanamowe, "Satintalks", forest retreat
+	Owner: The True Buck, elves
+	Parent Civ: The Hill of Turquoise, elves
+	78 elves
+	22 bobcats
+	10 horses
+	10 gorillas
+	22 leopards
+	22 tigers
+	2 black-crested gibbons
+154: Iòemayarare, "Gatesilks", forest retreat
+	Owner: The Incenses of Coincidence, elves
+	Parent Civ: The Hill of Turquoise, elves
+	80 elves
+	25 tigers
+	25 bobcats
+	10 horses
+	10 gorillas
+	25 leopards
+155: Nelocerethe, "Passsculpt", forest retreat
+	Owner: The Humorous Pelts, elves
+	Parent Civ: The Droplets of Shaking, elves
+	96 elves
+	26 bobcats
+	10 horses
+	10 gorillas
+	26 leopards
+	26 tigers
+156: Limilisethe, "Matchpacks", forest retreat
+	Owner: The Satin of Chants, elves
+	Parent Civ: The Droplets of Shaking, elves
+	88 elves
+	22 leopards
+	10 horses
+	10 gorillas
+	22 tigers
+157: Sarevecequova, "Roseshark", forest retreat
+	Owner: The Mindful Water, elves
+	Parent Civ: The Droplets of Shaking, elves
+	80 elves
+	26 tigers
+	10 horses
+	10 gorillas
+	26 leopards
+	26 bobcats
+158: °limeeduma, "Horndanger", forest retreat
+	Owner: The Murky Roars, elves
+	Parent Civ: The Hill of Turquoise, elves
+	78 elves
+	27 leopards
+	10 horses
+	10 gorillas
+	27 bobcats
+	27 tigers
+159: Ithaáuthä, "Sheenallied", forest retreat
+	Owner: The Strong Poem, elves
+	Parent Civ: The Hill of Turquoise, elves
+	84 elves
+	22 tigers
+	10 horses
+	10 gorillas
+	22 leopards
+	22 bobcats
+	2 pangolins
+160: Lalalaada, "Patternedberries", forest retreat
+	Owner: The Everlasting Ram, elves
+	Parent Civ: The Hill of Turquoise, elves
+	72 elves
+	24 tigers
+	10 horses
+	10 gorillas
+	24 leopards
+	24 bobcats
+161: Thawathilolama, "Postblossoms", forest retreat
+	Owner: The Incinerated Thunder, elves
+	Parent Civ: The Hill of Turquoise, elves
+	82 elves
+	23 bobcats
+	23 leopards
+	10 horses
+	10 gorillas
+	2 bonobos
+	23 tigers
+162: Lesanalaba, "Satinrasps", forest retreat
+	Owner: The Contingent Fells, elves
+	Parent Civ: The Hill of Turquoise, elves
+	75 elves
+	24 bobcats
+	24 leopards
+	10 horses
+	10 gorillas
+	24 tigers
+	2 bonobos
+163: Cironosareve, "Sprayrose", forest retreat
+	Owner: The Glimmer of Ivy, elves
+	Parent Civ: The Hill of Turquoise, elves
+	62 elves
+	20 tigers
+	10 horses
+	10 gorillas
+	24 leopards
+	24 bobcats
+	2 bonobos
+164: Urarnobde, "Malignedcried", dark fortress
+	Owner: The Sculpted Deceiver, goblins
+	Parent Civ: The Small Immorality, goblins
+	6 dwarves
+	54 goblins
+	2 humans
+	49 beak dogs
+	49 trolls
+	1 dwarf outcast
+	10 goblin outcasts
+165: Rethione, "Deathbone", lair
+	1 dusk creature
+166: Osmansaquo Gesogorbe, "Shadowfaint the Tenebrous Shade", lair
+	1 twilight crone
+167: Bozurspos, "The Tenebrous Abysses", lair
+	3 night crones
+168: Mñthkatugosh, "Mansionhollows", lair
+	1 giant tiger
+169: Kolâsru, "The Cracked Crevices", lair
+	1 dingo
+170: Atharaiquila Obi Irada, "Wraithumbral the Shadow of Proliferation", lair
+	1 troll
+171: TamoebrÜ, "Wrackedmurk", lair
+	1 anaconda
+172: Kulur Ucaf, "The Nights of Carrying", lair
+	1 anaconda
+173: Mithrupngethac Evhol Kur, "Bewitchcave the Nature of Suicide", lair
+	3 troglodytes
+174: Tetistvumshar, "Flimsygloom", lair
+	1 troglodyte
+175: Ceracona, "Willholes", lair
+	3 trolls
+176: EbrÜuno, "Murkybury", lair
+	3 night crones
+177: Nulanunïre, "Buriedcaverns", lair
+	2 night crones
+178: Galka Thespde, "The Deep of Societies", lair
+	1 giant saltwater crocodile
+179: Zesmstumàl Lozu Uno, "Duskfaint the Dust of Burials", lair
+	4 twilight crones
+180: Usan Thedle, "The Heart of Gorging", lair
+	4 trolls
+181: Unu Mudo, "The Skull of Bones", lair
+	4 night crones
+182: Nawara Fere, "The Twilight of Shades", lair
+	4 night crones
+183: Othronuta, "The Occult Pits", lair
+	1 giant alligator
+184: Saquogorbe, "The Faint Shade", lair
+	4 night crones
+185: Omo Kunur, "The Cave of Citadels", lair
+	1 giant saltwater crocodile
+186: Jestrigalka, "The Organized Deep", lair
+	1 leopard
+187: Licevanunïre, "The Legendary Cavern", lair
+	1 alligator
+188: Ostestana, "Depressedhole", lair
+	1 giant anaconda
+189: Lïmifoac° Obi Nidela, "Cryptfaint the Shadows of Dusk", lair
+	1 wicked horror
+190: Nusnakspos, "The Odorous Abysses", lair
+	1 giant cave spider
+191: Rakustosod Nîkoranan, "Tombsbones the Dead Night", lair
+	3 night crones
+192: Anuzesmstum ñstruzomus, "Nightdusks the Dead Twilight", lair
+	2 wicked horrors
+193: Losisnekol, "The Faint Skull", lair
+	3 night crones
+194: ShedimrÜsh, "Shadowdies", lair
+	3 wicked horrors
+195: Kulurdisem Sath Oce, "Nightdusk the Skulls of Dust", lair
+	1 night crone
+196: Uletuta, "The Wispy Pits", lair
+	1 alligator
+197: Anaòalïmifo, "The Dead Crypt", lair
+	2 wicked horrors
+198: Losisngotol, "Faintghosts", lair
+	1 night crone
+199: Nidelaimeri, "Duskashes", lair
+	1 dusk creature
+200: Obi LithÇme, "The Shadow of Nights", lair
+	1 wicked horror
+201: Rethiayanu Iquilaome, "Dieabyss the Umbral Skull", lair
+	1 night crone
+202: EbrÜ Zesmstum, "The Murk of Dusk", lair
+	1 night crone
+203: Thatemeiquila, "Tunnelumbral", lair
+	1 night crone
+204: Siga Pis, "The Depth of Wires", lair
+	1 giant alligator
+205: Osmanmuthro, "Shadowdead", lair
+	1 night crone
+206: Rethi Nidela, "The Death of Dusk", lair
+	1 night crone
+207: Araninula Tuthiome, "Dustbury the Sable Skulls", lair
+	1 night crone
+208: Bozurzomus, "The Tenebrous Twilight", lair
+	1 night crone
+209: éb Ustub, "The Shafts of Swaying", lair
+	2 trolls
+210: Engrorusmdas Zospu Akon, "Ghostash the Umbra of Shadows", lair
+	1 wicked horror
+211: Cishgamo, "Ashengraves", lair
+	1 wicked horror
+212: Uslukoxxo, "The Earthen Sewers", lair
+	1 troll
+213: Saquokulur, "Faintnight", lair
+	1 night crone
+214: Fereaquiya Ayanuiquila, "Shadyfate the Abyssal Umbra", lair
+	1 night crone
+215: Pethitlenge Mebasstaddat, "Lacetake the Mirthful Watchfulness", lair
+	1 ettin
+216: Iòeciba çleòare, "Boldgoal the Vigorous Orange", lair
+	1 giant
+217: Stìrngut Mñra, "The Tenacity of Fragrances", lair
+	1 giant
+218: Sasluasmrar, "The Dented Lashes", labyrinth
+	1 minotaur
+219: Ngal†kostar Ibruk Osod, "Abyssbury the Ash of Bones", lair
+	1 night crone
+220: Omsosgorbe, "The Umbral Shade", lair
+	1 monster of shadow
+221: Meliiquila, "The Murky Umbra", lair
+	1 crone of the night
+222: Zesmstum Xan, "The Dusk of Oblivion", lair
+	1 man of the night
+223: Muthroosman, "The Dead Shadows", lair
+	1 lumbering troll
+224: Aquiyalïmifo, "The Fated Crypts", lair
+	1 wicked horror
+225: Zomus Engror, "The Twilight of Ghosts", lair
+	1 brooding freak
+226: Stusmexslosno, "The Mahogany Desert", shrine
+	1 swamp titan
+227: Sizunib, "Greaserag", shrine
+	1 swamp titan
+228: Bosteb Kagus, "The Match of Craziness", shrine
+	1 bronze colossus
+
+Outdoor Animal Populations (Including Undead)
+	1345 sea serpents
+	22865 gigantic squids
+	9415 squid men
+	6304 sea otters
+	26900 giant nautiluses
+	13450 nautilus men
+	6140 giant harp seals
+	921 harp seal men
+	5833 harp seals
+	5219 giant elephant seals
+	1535 elephant seal men
+	6140 elephant seals
+	39005 giant sperm whales
+	12105 sperm whale men
+	36315 sperm whales
+	368530 giant horseshoe crabs
+	13450 horseshoe crab men
+	539871 horseshoe crabs
+	515135 giant sponges
+	12105 sponge men
+	40350 giant orcas
+	6725 orca men
+	20406 orcas
+	18830 giant cuttlefish
+	9415 cuttlefish men
+	4298 giant leopard seals
+	1535 leopard seal men
+	5219 leopard seals
+	25555 giant crabs
+	10760 crab men
+	445820 crabs
+	21520 giant octopuses
+	6725 octopus men
+	84259 octopuses
+	7061 giant narwhals
+	2763 narwhal men
+	6140 narwhals
+	48717 bluefin tuna
+	13832 great barracudas
+	14036 halibut
+	18834 marlins
+	28026 swordfish
+	25374 ocean sunfish
+	25776 bluefish
+	9627 giant groupers
+	24912 opah
+	22977 cod
+	8814 milkfish
+	23164 conger eels
+	17020 sturgeons
+	11856 coelacanths
+	10374 stingrays
+	9238 manta rays
+	21336 common skates
+	18477 angelsharks
+	30558 hammerhead sharks
+	28388 blue sharks
+	7904 whitetip reef sharks
+	7904 blacktip reef sharks
+	13863 bull sharks
+	7904 tiger sharks
+	30441 longfin mako sharks
+	28841 shortfin mako sharks
+	12412 nurse sharks
+	14880 basking sharks
+	14820 whale sharks
+	28345 spotted wobbegongs
+	29256 spiny dogfish
+	43089 frill sharks
+	33052 great white sharks
+	26482 sea lampreys
+	7982 giant walruss
+	3070 walrus men
+	8596 walruses
+	9248 giant moon snails
+	4896 moon snail men
+	28245 giant albatrosses
+	9415 albatross men
+	32280 albatrosses
+	35062 giant ospreys
+	12584 osprey men
+	48261 ospreys
+	14122 giant puffins
+	3070 puffin men
+	15043 puffins
+	5526 giant penguins
+	2149 penguin men
+	5219 emperor penguins
+	7982 little penguins
+	5219 penguins
+	115 white-browed gibbons
+	140 spider monkeys
+	132 bilous
+	1037 jaguars
+	34586 dingoes
+	1189 leopards
+	1261 tigers
+	595 cougars
+	54627 wild boars
+	187 iguanas
+	278 hornbills
+	385 cassowaries
+	3285 saltwater crocodiles
+	16046 alligators
+	4405 anacondas
+	39264 rattlesnakes
+	49895 capybaras
+	60530 ducks
+	48216 eagles
+	8752 great horned owls
+	57085 peregrine falcons
+	161 lorikeet men
+	5061 giant black mambas
+	1446 black mamba men
+	6097 black mambas
+	621 giant capuchins
+	138 capuchin men
+	1127 capuchins
+	69 giant ocelots
+	230 ocelot men
+	50 ocelots
+	3856 giant anacondas
+	2410 anaconda men
+	38874 giant dingoes
+	17548 dingo men
+	15202 giant copperhead snakes
+	11056 copperhead snake men
+	29045 copperhead snakes
+	42394 giant weasels
+	19270 weasel men
+	53379 weasels
+	32759 giant rattlesnakes
+	15416 rattlesnake men
+	23124 giant green tree frogs
+	9635 green tree frog men
+	3254 giant bobcats
+	11361 bobcat men
+	5449 bobcats
+	20232 giant adders
+	8430 adder men
+	25840 adders
+	33720 giant coyotes
+	10116 coyote men
+	34481 coyotes
+	30832 giant wild boars
+	17343 wild boar men
+	21855 giant hamsters
+	13489 hamster men
+	9635 rat men
+	38540 giant skinks
+	15416 skink men
+	19289 giant lizards
+	17343 lizard men
+	3856 giant honey badgers
+	2169 honey badger men
+	2410 honey badgers
+	1687 giant saltwater crocodiles
+	1446 saltwater crocodile men
+	15690 gorillas
+	723 giant tigers
+	2410 tiger men
+	723 giant jaguars
+	1205 jaguar men
+	482 giant leopards
+	1928 leopard men
+	19270 capybara men
+	42394 giant capybaras
+	8662 giant buzzards
+	2432 buzzard men
+	8334 buzzards
+	13890 giant alligators
+	10804 alligator men
+	23124 giant fireflies
+	17343 firefly men
+	30832 giant monarch butterflies
+	11562 monarch butterfly men
+	19270 giant beetles
+	9635 beetle men
+	32759 giant roaches
+	19270 roach men
+	23124 giant flies
+	9635 fly men
+	39237 turkeys
+	5965 geese
+	6266 water buffalos
+	28905 giant snails
+	17343 snail men
+	34686 giant jumping spiders
+	19270 jumping spider men
+	58461 giant mosquitos
+	17343 mosquito men
+	25051 giant slugs
+	9635 slug men
+	46248 giant thrips
+	17343 thrips men
+	34697 giant lice
+	9635 louse men
+	25145 giant ticks
+	15416 tick men
+	52029 giant mantises
+	19270 mantis men
+	28905 giant grasshoppers
+	11562 grasshopper men
+	23124 giant moths
+	9821 moth men
+	32759 giant eagles
+	16208 eagle men
+	552 giant great horned owls
+	888 great horned owl men
+	4560 giant kestrels
+	6266 kestrels
+	32925 giant wrens
+	9635 wren men
+	552 giant lorikeets
+	4864 giant swans
+	7569 swans
+	48175 giant barn owls
+	19270 barn owl men
+	33609 barn owls
+	53956 giant white storks
+	15416 white stork men
+	29886 white storks
+	37202 giant sparrows
+	15416 sparrow men
+	30348 giant ravens
+	13488 raven men
+	687971 ravens
+	67440 giant crows
+	8430 crow men
+	1927 giant peregrine falcons
+	19270 peregrine falcon men
+	7904 giant red-winged blackbirds
+	2736 red-winged blackbird men
+	11562 worm men
+	5460 pileated gibbons
+	178 black bears
+	1572 wolves
+	20 grizzly bears
+	2990 bushmasters
+	264 sloth bears
+	1740 pangolins
+	1980 sloths
+	4366 wombats
+	39 skunks
+	47 porcupines
+	131 echidnas
+	6240 black-crested gibbons
+	6306 bonobos
+	49 deer
+	2470 grey parrots
+	90 pythons
+	162 aye-ayes
+	207 siamangs
+	243 orangutans
+	441 mandrills
+	198 tapirs
+	140 monitor lizards
+	208 armadillos
+	32 harpies
+	20 ogres
+	38 aardvarks
+	26 jackals
+	24 mongooses
+	46 giant tortoises
+	58 giraffes
+	56 rhinoceroses
+	56 cavies
+	48 elephants
+	54 warthogs
+	18 lions
+	30 hyenas
+	14 cheetahs
+	60 stranglers
+	30 foul blendecs
+	108 king cobras
+	300 silvery gibbons
+	264 gray gibbons
+	132 black-handed gibbons
+	240 white-handed gibbons
+	234 chimpanzees
+	96 blue peafowls
+	1408 opossums
+	712 badgers
+	1236 kakapo
+	4635 kea
+	3624 yaks
+	5923 mountain goats
+	2024 giant wombats
+	792 wombat men
+	1408 giant kingsnakes
+	1848 giant chinchillas
+	880 chinchilla men
+	1584 giant wolverines
+	616 wolverine men
+	2200 giant hoary marmots
+	440 hoary marmot men
+	2640 giant mountain goats
+	528 mountain goat men
+	528 yetis
+	1466 wolverines
+	2714 hoary marmots
+	62 rhesus macaques
+	5346 chinchillas
+	2152 kingsnakes
+	20 unicorns
+	22 giant opossums
+	42 giant gray langurs
+	7 gray langur men
+	27 giant porcupines
+	7 porcupine men
+	29 giant echidnas
+	7 echidna men
+	7 hedgehog men
+	8 badger men
+	21 giant groundhogs
+	10 groundhog men
+	3 giant cougars
+	31 giant rhesus macaques
+	5 rhesus macaque men
+	19 giant magpies
+	10 magpie men
+	20 giant peach-faced lovebirds
+	6 emu men
+	15 giant kakapo
+	6 kakapo men
+	18 giant kiwis
+	7 kiwi men
+	10 cardinal men
+	21 giant bluejays
+	9 bluejay men
+	19 wolf men
+	14 cougar men
+	113 giant wolves
+	37 giant hedgehogs
+	14 giant badgers
+	56 emus
+	32 foxes
+	58 red pandas
+	134 moose
+	6 kingsnake men
+	16 giant kangaroos
+	9 kangaroo men
+	16 kangaroos
+	27 groundhogs
+	21 rabbits
+	8 peach-faced lovebird men
+	9 kea men
+	28 opossum men
+	88 giant coatis
+	32 coati men
+	88 coatis
+	88 giant skunks
+	32 skunk men
+	36 flying squirrel men
+	112 giant chipmunks
+	20 chipmunk men
+	100 giant red squirrels
+	24 red squirrel men
+	76 giant gray squirrels
+	36 gray squirrel men
+	68 giant red pandas
+	24 red panda men
+	96 giant moose
+	32 moose men
+	24 panda men
+	8 gigantic pandas
+	48 giant raccoons
+	24 raccoon men
+	52 giant foxes
+	32 fox men
+	120 giant deer
+	36 deer men
+	8 giant grizzly bears
+	20 grizzly bear men
+	96 giant bushtits
+	32 bushtit men
+	72 giant emus
+	120 giant kea
+	96 giant cardinals
+	8 giant black bears
+	36 sasquatches
+	40 black bear men
+	64 giant flying squirrels
+	55 pike
+	287 loons
+	462 common snapping turtles
+	276 longnose gars
+	244 beavers
+	93 carp
+	4 pandas
+	58 kiwis
+	21 koalas
+	48 kestrel men
+	42 swan men
+	132 river otters
+	49 gray langurs
+	11 raccoons
+	119 reindeer
+	962 muskoxen
+	129 polar bears
+	1065 elk
+	64 alligator snapping turtles
+	60 minks
+	863 stoats
+	147 snowy owls
+	496627 squids
+	54400 sea nettle jellyfish
+	361675 mackerel
+	163200 flounders
+	244403 sole
+	215342 white-spotted puffers
+	177346 glasseye
+	422314 seahorses
+	325139 hake
+	386920 steelhead trout
+	415472 anchovies
+	376067 shads
+	523213 herrings
+	305200 spotted ratfish
+	413124 thornback rays
+	319002 bat rays
+	220864 brook lampreys
+	300621 hagfish
+	194636 clownfish
+	259494 salmon
+	498952 nautiluses
+	442402 cuttlefish
+	1011757 fireflies
+	869664 jumping spiders
+	784200 monarch butterflies
+	10126101 flies
+	7555607 mosquitos
+	15071 lorikeets
+	1034306 toads
+	838775 rats
+	951032 sparrows
+	647810 green tree frogs
+	755384 lungfish
+	838801 hamsters
+	660861 pond turtles
+	567187 skinks
+	741417 lizards
+	9448081 acorn flies
+	987948 two-legged rhino lizards
+	543414 moghoppers
+	588174 dragonflies
+	702507 large roaches
+	55655 mantises
+	600062 moths
+	581881 damselflies
+	669341 wrens
+	687023 crows
+	100143 red-winged blackbirds
+	1453 red squirrels
+	656 gray squirrels
+	61620 chameleons
+	790 bushtits
+	47014 masked lovebirds
+	52110 parakeets
+	3258 lion tamarins
+	2981 anoles
+	874 bark scorpions
+	154460 blood gnats
+	27762 knuckle worms
+	24472 demon rats
+	22914 phantom spiders
+	27605 flying squirrels
+	700 brown recluse spiders
+	1207 orioles
+	19764 cardinals
+	29538 blue jays
+	1520 hedgehogs
+	696 magpies
+	11304 fairies
+	91041 pixies
+	15435 fluffy wamblers
+	1769 chipmunks
+	1452 fox squirrels
+	5253 black bullheads
+	5642 brown bullheads
+	5275 yellow bullheads
+	4974 sailfin mollies
+	3303 perch
+	2997 char
+	2469 rainbow trout
+	296 peach-faced lovebirds
+	Unnumbered oysters
+	Unnumbered mussels
+	Unnumbered moon snails
+	Unnumbered snails
+	Unnumbered slugs
+	Unnumbered worms
+	Unnumbered beetles
+	Unnumbered thrips
+	Unnumbered lice
+	Unnumbered ticks
+	Unnumbered leeches
+	Unnumbered honey bees
+	Unnumbered bumblebees
+	Unnumbered ants
+	Unnumbered termites
+
+Underground Animal Populations (Including Undead)
+	164457 gorlaks
+	86402 trolls
+	26638 giant cave spiders
+	41114 large rats
+	93110 dralthas
+	129868 giant moles
+	106007 troglodytes
+	45247 naked mole dogs
+	58973 helmet snakes
+	76170 giant bats
+	121452 giant cave toads
+	189194 pond grabbers
+	108704 cave crocodiles
+	115293 giant olms
+	52944 giant cave swallows
+	6017 gremlins
+	51266 giant rats
+	205569 elk birds
+	12685 blind cave bears
+	41311 drunians
+	17377 giant earthworms
+	85868 maneras
+	52668 blind cave ogres
+	83525 reachers
+	136840 bugbats
+	383137 floating guts
+	1787840 crundles
+	181508 plump helmet men
+	71367 rutherers
+	41362 molemarians
+	40571 voracious cave crawlers
+	105139 jabberers
+	8375 green devourers
+	12905 cave dragons
+	72117 blood men
+	1336261 creeping eyes
+	77225 mud men
+	1365481 cave blobs
+	1219032 flesh balls
+	397229 hungry heads
+	30466 cave floaters
+	728 iron men
+	96311 fire men
+	103258 magma men
+	90025 fire imps
+	152604 magma crabs
+	Unnumbered ash fiends
+	Unnumbered lemur demons
+	Unnumbered cockatoo demons
+	Unnumbered charcoal devils
+	Unnumbered slate gray devils
+	Unnumbered haunts of salt
+	Unnumbered ghosts of snow
+	Unnumbered brutes of glass
+	Unnumbered black fiends
+	Unnumbered flax brutes
+	Unnumbered brutes of tin glaze
+	Unnumbered bison fiends
+	Unnumbered embers demons
+	Unnumbered phantoms of steam
+	Unnumbered steam ghosts
+	Unnumbered slate gray fiends
+	Unnumbered black devils
+	Unnumbered devils of coral
+	2813601 cave swallows
+	2726856 bats
+	2803914 cap hoppers
+	2551686 cave spiders
+	3103650 cave lobsters
+	3240310 cave fish
+	2369542 olms
+	1770958 purring maggots
+	1207544 creepy crawlers
+	1700079 fire snakes
